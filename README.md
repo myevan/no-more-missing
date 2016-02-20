@@ -16,14 +16,14 @@ NoMoreMissing fixes missing scripts in unity project.
 
     iTween.cs -> iTween.dll
 
-* Click the **"Help/Prepare for Missing scripts"** menu.
+* Click the **Help/Prepare for Missing scripts** menu.
 
 * Remove behaviour sources and copy the library
 
     $ rm iTween.cs 
     $ copy iTween.dll Assets/iTween.dll
 
-* Click the **"Help/Fix Missing scripts"** menu.
+* Click the **Help/Fix Missing scripts** menu.
 
 * Restart your unity.
 
@@ -61,7 +61,7 @@ NoMoreMissing fixes missing scripts in unity project.
         Assets/
             example.prefab
 
-* Click the **"Help/Prepare for Missing scripts"** menu.
+* Click the **"Help/Prepare for Missing scripts** menu.
 
 * Save the scene and quit your unity.
 
@@ -72,6 +72,6 @@ NoMoreMissing fixes missing scripts in unity project.
 
 * Open the scene and check a **MISSING SCRIPT** of example object
 
-* Click the **"Help/Fix Missing scripts"** menu.
+* Click the **Help/Fix Missing scripts** menu.
 
 * Close and re-open the scene and re-check a **FIXED SCRIPT** of example object

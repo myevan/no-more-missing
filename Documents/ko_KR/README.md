@@ -17,14 +17,14 @@ NoMoreMissing 은 유니티 프로젝트내 Missing Script 문제를 해결해 �
 
     iTween.cs -> iTween.dll
 
-* **"Help/Prepare for Missing scripts"** 메뉴를 클릭합니다.
+* **"Help/Prepare for Missing scripts** 메뉴를 클릭합니다.
 
 * Behaviour 소스를 제거하고 라이브러리를 복사합니다.
 
     $ rm iTween.cs 
     $ copy iTween.dll Assets/iTween.dll
 
-* **"Help/Fix Missing scripts"** 메뉴를 클릭합니다.
+* **Help/Fix Missing scripts** 메뉴를 클릭합니다.
 
 * 유니티를 재시작합니다.
 
@@ -61,7 +61,7 @@ NoMoreMissing 은 유니티 프로젝트내 Missing Script 문제를 해결해 �
         Assets/
             example.prefab
 
-* **Help/Prepare for Missing scripts"** 메뉴를 클릭합니다
+* **Help/Prepare for Missing scripts** 메뉴를 클릭합니다
 
 * 씬을 저장하고 유니티를 종료합니다.
 
@@ -72,7 +72,7 @@ NoMoreMissing 은 유니티 프로젝트내 Missing Script 문제를 해결해 �
 
 * 씬을 열어 **MISSING SCRIPT** 를 확인합니다.
 
-* **"Help/Fix Missing scripts"** 메뉴를 클릭합니다.
+* **Help/Fix Missing scripts** 메뉴를 클릭합니다.
 
 * 씬을 다시 열어 수정 여부를 확인합니다.
 
