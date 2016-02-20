@@ -10,7 +10,7 @@ NoMoreMissing fixes missing scripts in unity project.
 
 ### Managed Behaviour
 
-* Make GameObjects with Behaviours will be ManagedBehaviour to **PREFABS**.
+* Make GameObjects with Behaviours will be ManagedBehaviour to **PREFAB**s.
 
 * Compile behaviour sources and make a library
 
