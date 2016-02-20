@@ -10,20 +10,20 @@ NoMoreMissing fixes missing scripts in unity project.
 
 ### Managed Behaviour
 
-* Create prefabs with module sources.
+* Make GameObjects with Behaviours will be ManagedBehaviour to **PREFABS**.
 
-* Compile module sources and make a library
+* Compile behaviour sources and make a library
 
     iTween.cs -> iTween.dll
 
-* **Click the "Help/Prepare for Missing scripts" menu.**
+* Click the **"Help/Prepare for Missing scripts"** menu.
 
-* Remove module sources and copy the library
+* Remove behaviour sources and copy the library
 
     $ rm iTween.cs 
     $ copy iTween.dll Assets/iTween.dll
 
-* **Click the "Help/Fix Missing scripts" menu.**
+* Click the **"Help/Fix Missing scripts"** menu.
 
 * Restart your unity.
 
@@ -61,7 +61,7 @@ NoMoreMissing fixes missing scripts in unity project.
         Assets/
             example.prefab
 
-* **Click the "Help/Prepare for Missing scripts" menu.**
+* Click the **"Help/Prepare for Missing scripts"** menu.
 
 * Save the scene and quit your unity.
 
@@ -72,6 +72,6 @@ NoMoreMissing fixes missing scripts in unity project.
 
 * Open the scene and check a **MISSING SCRIPT** of example object
 
-* **Click the "Help/Fix Missing scripts" menu.**
+* Click the **"Help/Fix Missing scripts"** menu.
 
 * Close and re-open the scene and re-check a **FIXED SCRIPT** of example object
