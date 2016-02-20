@@ -21,7 +21,7 @@ NoMoreMissing fixes missing scripts in unity project.
         Assets/
             TestBehaviour.cs
 
-* Add a behaviour to the game object 
+* Add the behaviour to the game object 
 
     Inspector:
 
@@ -41,22 +41,15 @@ NoMoreMissing fixes missing scripts in unity project.
 
 * **Click the "Help/Prepare for Missing scripts" menu.**
 
-* Save and close the scene 
+* Save the scene and quit your unity.
 
-* Remove the behaviour meta file
+* Remove the behaviour meta file and the Library folder for making a broken prefab (includes **MISSING SCRIPT**)
 
     $ rm Assets/TestBehaviour.cs
-
-* Remove the Library folder
-
     $ rm Library
 
-* Open the scene
-
-* Check a **MISSING SCRIPT** of example object
+* Open the scene and check a **MISSING SCRIPT** of example object
 
 * **Click the "Help/Fix Missing scripts" menu.**
 
-* Close and re-open the scene
-
-* Re-check a **FIXED SCRIPT** of example object
+* Close and re-open the scene and re-check a **FIXED SCRIPT** of example object
