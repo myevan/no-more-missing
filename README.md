@@ -6,7 +6,29 @@ NoMoreMissing fixes missing scripts in unity project.
 
 **MUST BACKUP** your project before using thie plugin that marks a behaviour **CLASS NAME** in **ALL** prefabs. 
 
-## Examples
+## Use Cases
+
+### Managed Behaviour
+
+* Create prefabs with module sources.
+
+* Compile module sources and make a library
+
+    iTween.cs -> iTween.dll
+
+* **Click the "Help/Prepare for Missing scripts" menu.**
+
+* Remove module sources and copy the library
+
+    $ rm iTween.cs 
+    $ copy iTween.dll Assets/iTween.dll
+
+* **Click the "Help/Fix Missing scripts" menu.**
+
+* Restart your unity.
+
+
+### Missing Behaviour meta 
 
 * Make a game object
 
