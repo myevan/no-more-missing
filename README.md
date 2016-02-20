@@ -45,8 +45,8 @@ NoMoreMissing fixes missing scripts in unity project.
 
 * Remove the behaviour meta file and the Library folder for making a broken prefab (includes **MISSING SCRIPT**)
 
-    $ rm Assets/TestBehaviour.cs
-    $ rm Library
+        $ rm Assets/TestBehaviour.cs
+        $ rm Library
 
 * Open the scene and check a **MISSING SCRIPT** of example object
 

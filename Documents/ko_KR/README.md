@@ -46,8 +46,8 @@ NoMoreMissing 은 유니티 프로젝트내 Missing Script 문제를 해결해 �
 
 * 깨진 프리팹(Missing Script가 포함된)을 만들기 위해 meta 파일과 라이브러리 폴더를 삭제합니다.
 
-    $ rm Assets/TestBehaviour.cs
-    $ rm Library
+        $ rm Assets/TestBehaviour.cs
+        $ rm Library
 
 * 씬을 열어 **MISSING SCRIPT** 를 확인합니다.
 
