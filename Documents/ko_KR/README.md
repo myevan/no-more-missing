@@ -17,7 +17,7 @@ NoMoreMissing 은 유니티 프로젝트내 Missing Script 문제를 해결해 �
 
     iTween.cs -> iTween.dll
 
-* **"Help/Prepare for Missing scripts** 메뉴를 클릭합니다.
+* **Help/Prepare for Missing scripts** 메뉴를 클릭합니다.
 
 * Behaviour 소스를 제거하고 라이브러리를 복사합니다.
 
